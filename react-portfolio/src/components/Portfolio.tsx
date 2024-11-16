@@ -15,14 +15,14 @@ const Portfolio = () => {
         />
 
         <Project
-          imageUrl="/employeetrackerpic.png"
+          imageUrl="/public/employeetrackerpic.png"
           title="Employee Tracker"
           description="The Employee Tracker is a command-line application designed to manage a company's employee database using Node.js, Inquirer, and PostgreSQL."
           repoUrl="https://github.com/acgianesi/Employee-Tracker"
         />
 
         <Project
-          imageUrl="/vehiclebuilder.webp"
+          imageUrl="/public/vehiclebuilder.webp"
           title="Vehicle Builder"
           description="Vehicle-Builder is a command-line application that enables users to create or select vehicles—specifically cars, trucks, and motorbikes—and perform a variety of actions with them."
           repoUrl="https://github.com/acgianesi/Vehicle-Builder"
